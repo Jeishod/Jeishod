@@ -22,9 +22,6 @@ me.say_hi()
 ```
 
 ### 👨🏼‍💻 About me
-
----
-
 I'm a Software Development Engineer. Currently, working as a Backend Developer.
 I love smart architecture and beautiful Python
 
@@ -37,10 +34,7 @@ I love smart architecture and beautiful Python
 
 ### 🔧 Technologies & Tools
 
----
-
 #### Mostly experience with the following technologies:
-
 [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)](https://fastapi.tiangolo.com/)
 [![Django](https://img.shields.io/badge/-Django-000?&logo=Django)](https://www.djangoproject.com/)
@@ -61,7 +55,6 @@ I love smart architecture and beautiful Python
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 #### I have some experience with frontend:
-
 [![VueJS](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)](https://vuejs.org/)
 [![VuetifyJS](https://img.shields.io/badge/-Vuetify.js-000?&logo=Vuetify)](https://vuetifyjs.com/en/)
 [![NuxtJS](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)](https://nuxtjs.org/)
@@ -71,9 +64,6 @@ I love smart architecture and beautiful Python
 
 
 ### ✏️ Contacts
-
----
-
 [![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=Telegram)](https://t.me/Jeishod)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://linkedin.com/in/Jeishod)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/Jeishod)
