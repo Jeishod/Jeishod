@@ -20,11 +20,8 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
-### About me:
-
---- 
-
+###
+### About me
 - I'm a Software Development Engineer. Currently, working as a Backend Developer.
 - I love smart architecture and beautiful Python
 
@@ -34,11 +31,8 @@ me.say_hi()
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Code coverage Status](https://img.shields.io/badge/codecov-100﹪-00?&logo=Codecov)](https://codecov.io/)
 
-
-### Technologies & Tools:
-
----
-
+###
+### Technologies & Tools
 - Mostly experience with the following technologies:
     
     [![Python](https://img.shields.io/badge/-Python-000?&logo=Python)](https://www.python.org/)
@@ -69,10 +63,8 @@ me.say_hi()
   ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
   ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
+###
 ### Contacts
-
----
-
 [![Telegram](https://img.shields.io/badge/-Telegram-000?&logo=Telegram)](https://t.me/Jeishod)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://linkedin.com/in/Jeishod)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/Jeishod)
