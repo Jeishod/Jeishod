@@ -1,29 +1,8 @@
 ## Hi there 👋
 
-
-```python
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-
-class SoftwareEngineer:
-    def __init__(self):
-        self.first_name = "Andrei"
-        self.last_name = "Belyaev"
-        self.role = "Software Engineer"
-        self.language_spoken = ["ru_RU", "en_US"]
-        
-    def say_hi(self):
-        print(f"Hi! My name is {self.first_name} {self.last_name}. I'm a {self.role}.")
-
-
-me = SoftwareEngineer()
-me.say_hi()
-```
-###
 ### About me
-- I'm a Software Development Engineer. Currently, working as a Backend Developer.
-- I love smart architecture and beautiful Python
+- I'm a Software Development Engineer.
+- I love smart architecture and beautiful Python.
 
 `isort` + `black` + `flake8` + `pytest` = 💚 🐍
 
@@ -54,14 +33,6 @@ me.say_hi()
     ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
     ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
-- I have also some experience with frontend:
-  
-  [![VueJS](https://img.shields.io/badge/-Vue.js-000?&logo=Vue.js)](https://vuejs.org/)
-  [![VuetifyJS](https://img.shields.io/badge/-Vuetify.js-000?&logo=Vuetify)](https://vuetifyjs.com/en/)
-  [![NuxtJS](https://img.shields.io/badge/-Nuxt.js-000?&logo=Nuxt.js)](https://nuxtjs.org/)
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://getbootstrap.com/)
-  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
 ###
 ### Contacts
